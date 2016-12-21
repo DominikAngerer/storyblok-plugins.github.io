@@ -1,5 +1,6 @@
 # [Storyblok](https://www.storyblok.com)
 > The quickest and most flexible way to make your content editable
+
 > Content editing as a service.
 
 ## [Storyblok](https://www.storyblok.com) puts you in the control
