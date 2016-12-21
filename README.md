@@ -10,11 +10,11 @@ You can easily build stories with content blocks and then inject the data in you
 
 ## Plugins Overview
 
-- https://storyblok-plugins.github.io/markdown/
-- https://storyblok-plugins.github.io/simplemde/
-- https://storyblok-plugins.github.io/table/
-- https://storyblok-plugins.github.io/colorpicker/
-- https://storyblok-plugins.github.io/url/
-- https://storyblok-plugins.github.io/number/
-- https://storyblok-plugins.github.io/meta/ (Beta)
-- https://storyblok-plugins.github.io/meta-simple/
+- [markdown](https://storyblok-plugins.github.io/markdown/)
+- [simplemde](https://storyblok-plugins.github.io/simplemde/)
+- [table](https://storyblok-plugins.github.io/table/)
+- [colorpicker](https://storyblok-plugins.github.io/colorpicker/)
+- [url](https://storyblok-plugins.github.io/url/)
+- [number](https://storyblok-plugins.github.io/number/)
+- [meta](https://storyblok-plugins.github.io/meta/) (Beta)
+- [meta-simple](https://storyblok-plugins.github.io/meta-simple/)
